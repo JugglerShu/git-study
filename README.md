@@ -5,3 +5,4 @@ git study group
 Put your name
 
  - Shuichiro Suzuki
+ - JugglerShu
